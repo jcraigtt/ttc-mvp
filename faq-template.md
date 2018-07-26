@@ -1,4 +1,4 @@
-# Initial page
+# FAQ Template
 
 ## Can I become who I want to be?
 
